@@ -1,4 +1,28 @@
-# test2
+# (Vue - Vuetify - TS) Boilerplate
+
+## Folder Structure
+```
+src
+  - assets
+  - components
+  - layouts
+  - views
+  - helpers
+    |- axios
+    |- importer
+  - plugins
+    |- vuetify
+  - router
+    |- routes
+  - store
+    |- modules
+      |- auth
+
+tests
+  - unit
+
+```
+
 
 ## Project setup
 ```
@@ -15,7 +39,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Lints and fixes files (Javascript Standard)
 ```
 npm run lint
 ```
